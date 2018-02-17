@@ -1,0 +1,61 @@
+body {
+  background-color:  #f3e7d7;
+  padding: 20px;
+  margin: 0px;
+}
+
+h1, h2, p, ul, li {
+  font-family: Times New Roman;
+  font-size: 24px;
+}
+
+ul.header li {
+  display: block;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  background-color: #111;
+  padding: 10;
+}
+ul.header li a {
+  color : #f3e7d7;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+.content {
+  padding: 50px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
+
+.tete {
+  background-color: #a5673f;
+  height: 178px; 
+}
+
+.listeBoutons {
+  text-align: center;
+}
+
+.slogan {
+  text-align: center;
+  position: relative;
+  top: -90px; 
+  color : #f3e7d7;
+  font-family : Brush Script MT;
+  font-size:400%;
+}
+
+.ConnIns {
+  top: -300px; 
+  right: -1570px; 
+  position: relative;
+}

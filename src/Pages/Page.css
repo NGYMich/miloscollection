@@ -1,0 +1,13 @@
+.body {
+  background-color:  #c1d5d5;
+  padding: 20px;
+  margin: 0px;
+}
+
+.boutonSVG {
+	cursor: pointer;
+}
+
+div, li, ul{
+	text-align: left;
+}
